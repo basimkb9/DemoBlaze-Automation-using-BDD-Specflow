@@ -13,6 +13,8 @@ Scenario: (Negative) Sign up to the website
 	| userName | password |
 	| test     | test     |
 	| xyz      |          |
+	|		|  asdasd        |
+	
 
 @tag2
 Scenario: User will register into the website with a new username
