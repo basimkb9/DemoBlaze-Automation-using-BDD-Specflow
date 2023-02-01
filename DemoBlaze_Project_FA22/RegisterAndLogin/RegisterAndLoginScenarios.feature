@@ -13,7 +13,7 @@ Scenario: (Negative) Sign up to the website
 	| userName | password |
 	| test     | test     |
 	| xyz      |          |
-	|		|  asdasd        |
+	|		   |  asdasd  |
 	
 
 @tag2
